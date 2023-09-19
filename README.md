@@ -6,4 +6,4 @@
 🌱 I’m passionately improving my skills through learning in-depth about machine learning models.  
 :keyboard: Most of my experience in coding comes from Python, Java and JavaScript. However, I do also have a bit of knowledge of C++ and C#. <br>
 :mailbox_with_mail: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amritpal-singh-ny/)! <br>
-⚡ Fun fact: Some of my hobbies include working out :muscle:, playing video games :video_game:, watching F1 :racing_car: and of course coding :computer:! <br>
+⚡ Fun fact: Some of my hobbies include working out :muscle:, photography 📷, playing video games :video_game:, watching F1 :racing_car: and of course coding :computer:! <br>
